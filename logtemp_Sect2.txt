@@ -1,0 +1,3 @@
+[Tue Nov 20 2018 23:21:47 GMT+0200 (GTB)] {"source":"senzor_position","value":33,"time_stamp":"2018-11-20T21:21:48.231Z"}
+[Tue Nov 20 2018 23:21:47 GMT+0200 (GTB)] {"source":"senzor_position","value":39,"time_stamp":"2018-11-20T21:21:50.237Z"}
+[Tue Nov 20 2018 23:21:47 GMT+0200 (GTB)] {"source":"senzor_position","value":8,"time_stamp":"2018-11-20T21:21:52.251Z"}
